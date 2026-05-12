@@ -1,1 +1,1 @@
-print(paste("Waffles"))
+print("Waffles")
